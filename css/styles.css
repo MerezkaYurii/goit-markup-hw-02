@@ -111,10 +111,6 @@ a {
     background-color: #F4F4FD;
 }
 
-.section-two-list {
-    background-color: #FFFFFF;
-}
-
 .section-two-name {
     font-weight: 700;
     font-size: 36px;
@@ -123,6 +119,10 @@ a {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+}
+
+.section-two-list {
+    background-color: #FFFFFF;
 }
 
 .section-two-title {
